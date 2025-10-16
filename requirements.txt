@@ -1,8 +1,6 @@
-Flask
+flask
 flask-cors
 python-dotenv
-cohere
 google-generativeai
-lancedb
 gunicorn
 groq
