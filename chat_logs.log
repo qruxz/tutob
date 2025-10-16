@@ -1,0 +1,71 @@
+2025-10-16 14:13:49,613 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:13:50,770 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:25:46,076 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:25:46,969 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:25:49,949 - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:25:50,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-10-16 14:25:50,499 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-16 14:25:50,527 - INFO -  * Restarting with stat
+2025-10-16 14:25:55,632 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:26:02,694 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:26:08,580 - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:26:08,696 - WARNING -  * Debugger is active!
+2025-10-16 14:26:08,728 - INFO -  * Debugger PIN: 448-844-762
+2025-10-16 14:26:41,214 - INFO - 127.0.0.1 - - [16/Oct/2025 14:26:41] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:26:47,068 - INFO - User 2e4bee9b-6c3a-409c-8305-2750a8f0433b (127.0.0.1): How do I book a demo?
+2025-10-16 14:26:48,925 - INFO - AI Response to 00b0f33d-0385-4c4b-b315-195304b2a38b: None...
+2025-10-16 14:26:48,929 - INFO - 127.0.0.1 - - [16/Oct/2025 14:26:48] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-10-16 14:28:29,357 - INFO -  * Detected change in 'C:\\Users\\upadh\\Downloads\\shym\\backend\\rag_system.py', reloading
+2025-10-16 14:40:10,786 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:11,292 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:13,358 - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:13,562 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.102:5001
+2025-10-16 14:40:13,563 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-16 14:40:13,571 - INFO -  * Restarting with stat
+2025-10-16 14:40:18,481 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:19,246 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:21,323 - ERROR - Failed to send telemetry event CollectionAddEvent: capture() takes 1 positional argument but 3 were given
+2025-10-16 14:40:21,536 - WARNING -  * Debugger is active!
+2025-10-16 14:40:21,556 - INFO -  * Debugger PIN: 448-844-762
+2025-10-16 14:40:28,069 - INFO - 127.0.0.1 - - [16/Oct/2025 14:40:28] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:40:28,402 - INFO - User 95360c1a-ffd4-4667-ad92-c0697056fd8a (127.0.0.1): How do I book a demo?
+2025-10-16 14:40:30,825 - INFO - AI Response to 77cb51f8-b2b1-4462-a467-e1d1505dfecc: None...
+2025-10-16 14:40:30,834 - INFO - 127.0.0.1 - - [16/Oct/2025 14:40:30] "[35m[1mPOST /api/chat HTTP/1.1[0m" 500 -
+2025-10-16 14:42:46,755 - INFO -  * Detected change in 'C:\\Users\\upadh\\Downloads\\shym\\backend\\rag_system.py', reloading
+2025-10-16 14:42:49,338 - INFO -  * Restarting with stat
+2025-10-16 14:42:51,819 - WARNING -  * Debugger is active!
+2025-10-16 14:42:51,871 - INFO -  * Debugger PIN: 448-844-762
+2025-10-16 14:43:04,167 - INFO -  * Detected change in 'C:\\Users\\upadh\\Downloads\\shym\\backend\\app.py', reloading
+2025-10-16 14:43:04,332 - INFO -  * Restarting with stat
+2025-10-16 14:43:11,358 - WARNING -  * Debugger is active!
+2025-10-16 14:43:11,376 - INFO -  * Debugger PIN: 448-844-762
+2025-10-16 14:43:40,177 - INFO - 127.0.0.1 - - [16/Oct/2025 14:43:40] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:43:40,471 - INFO - User d01abbe4-d826-41c8-aa4d-dfc98f76cd0c (127.0.0.1): Hi
+2025-10-16 14:43:41,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 14:43:41,665 - INFO - AI Response to d01abbe4-d826-41c8-aa4d-dfc98f76cd0c: Hello! Welcome to Shyampari Edutech Pvt. Ltd. I'm happy to assist you. How can I help you today? Are...
+2025-10-16 14:43:41,670 - INFO - 127.0.0.1 - - [16/Oct/2025 14:43:41] "POST /api/chat HTTP/1.1" 200 -
+2025-10-16 14:43:49,506 - INFO - 127.0.0.1 - - [16/Oct/2025 14:43:49] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:43:49,890 - INFO - User 9a432ede-c827-4099-9210-0d1d1307d553 (127.0.0.1): tutors
+2025-10-16 14:43:51,150 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 14:43:51,229 - INFO - AI Response to 9a432ede-c827-4099-9210-0d1d1307d553: At Shyampari Edutech Pvt. Ltd., we pride ourselves on having high-quality tutors who are dedicated t...
+2025-10-16 14:43:51,240 - INFO - 127.0.0.1 - - [16/Oct/2025 14:43:51] "POST /api/chat HTTP/1.1" 200 -
+2025-10-16 14:44:16,102 - INFO - 127.0.0.1 - - [16/Oct/2025 14:44:16] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:44:16,460 - INFO - User 47f377e4-1779-432f-bf5c-1aca27dba8e2 (127.0.0.1): thats very grate, does it can help me as student?
+2025-10-16 14:44:17,258 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 14:44:17,328 - INFO - AI Response to 47f377e4-1779-432f-bf5c-1aca27dba8e2: Hello! I'm happy to help you. As a student, you can definitely benefit from our personalized tutorin...
+2025-10-16 14:44:17,334 - INFO - 127.0.0.1 - - [16/Oct/2025 14:44:17] "POST /api/chat HTTP/1.1" 200 -
+2025-10-16 14:44:53,523 - INFO -  * Detected change in 'C:\\Users\\upadh\\Downloads\\shym\\backend\\app.py', reloading
+2025-10-16 14:44:53,908 - INFO -  * Restarting with stat
+2025-10-16 14:44:56,121 - WARNING -  * Debugger is active!
+2025-10-16 14:44:56,139 - INFO -  * Debugger PIN: 448-844-762
+2025-10-16 14:45:05,109 - INFO - 127.0.0.1 - - [16/Oct/2025 14:45:05] "OPTIONS /api/chat HTTP/1.1" 200 -
+2025-10-16 14:45:05,440 - INFO - User 0fbe8736-25b8-4633-92a5-7dd721de6605 (127.0.0.1): you have grate services
+2025-10-16 14:45:06,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-16 14:45:06,573 - INFO - AI Response to 0fbe8736-25b8-4633-92a5-7dd721de6605: Thank you for appreciating our services. We're glad you think they're great. At Shyampari Edutech Pv...
+2025-10-16 14:45:06,576 - INFO - 127.0.0.1 - - [16/Oct/2025 14:45:06] "POST /api/chat HTTP/1.1" 200 -

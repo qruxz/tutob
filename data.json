@@ -1,0 +1,177 @@
+{
+  "company": {
+    "name": "Shyampari Edutech Pvt. Ltd.",
+    "location": "Pune, Maharashtra",
+    "established": "2017",
+    "website": "https://www.shyampariedutech.com",
+    "email": "contact@shyampariedutech.com",
+    "description": "Education-focused company specializing in personalized tutoring services across multiple educational boards including ICSE, IGCSE, CBSE, IB, and A-Level with offerings in both online and offline modes."
+  },
+  "services": [
+    {
+      "name": "One-on-One Tutoring",
+      "description": "Each student is paired with a qualified educator for customized learning plans with personalized attention."
+    },
+    {
+      "name": "Group Tuition",
+      "description": "Small group batches (3-5 students per teacher) maintain personalized attention while fostering peer learning."
+    },
+    {
+      "name": "Online & Offline Classes",
+      "description": "Flexible delivery modes - classes conducted via virtual platforms or in-person sessions depending on student preference."
+    },
+    {
+      "name": "Assessment-Based Planning",
+      "description": "Initial diagnostic assessments guide lesson structures and target areas for improvement."
+    },
+    {
+      "name": "Board-Specific Syllabi",
+      "description": "Tailored lessons aligned with board requirements and exam patterns for ICSE, IGCSE, CBSE, IB, and A-Level."
+    },
+    {
+      "name": "Dedicated Coordinators",
+      "description": "24/7 coordinator support to facilitate scheduling, feedback loops, and communication between educators and parents."
+    },
+    {
+      "name": "Monthly Progress Reports",
+      "description": "Detailed summaries of performance, areas of strength, and improvement plans shared regularly."
+    },
+    {
+      "name": "Counseling Support",
+      "description": "Personalized support analyzing test papers, behavior observation, identifying recurring mistakes, homework routines, learning habits, and revision techniques."
+    },
+    {
+      "name": "Motivational Workshops",
+      "description": "Regular sessions on study skills, time management, and exam strategies."
+    },
+    {
+      "name": "Digital Resource Library",
+      "description": "Access to e-books, video lectures, interactive quizzes, notes, worksheets, and test papers."
+    }
+  ],
+  "why_choose_us": [
+    {
+      "title": "Quality Tutors",
+      "description": "Tutors with fluent communication skills from STEM backgrounds (Engineering, Pharmacy, BSc-MSc). Many are JEE and GATE qualified. Located within 5 km of parents' location for better continuity and punctuality. Experienced in home tuitions, coaching, or schools."
+    },
+    {
+      "title": "Coordinator Support",
+      "description": "24/7 coordinator support ensuring tutors' punctuality, daily timing adherence, and syllabus completion on time."
+    },
+    {
+      "title": "Counseling Support",
+      "description": "Monthly personalized support analyzing test papers, classroom behavior, recurring mistakes, homework routines, learning habits, and revision techniques."
+    },
+    {
+      "title": "Tutor Security",
+      "description": "If tutors leave for any emergency or parents want a change, new tutors are appointed within 2 weeks. No need to struggle finding teachers - it's the institute's responsibility."
+    },
+    {
+      "title": "Complete Study Support",
+      "description": "Notes, worksheets, and test papers provided to support comprehensive learning."
+    }
+  ],
+  "demo_process": {
+    "steps": [
+      "Coordinator will call you to discuss details",
+      "Say 'Hi' on WhatsApp and share your location (map)",
+      "Fill out the demo registration form and pay ₹500 as demo registration fee (subject to change and negotiable)",
+      "We will finalize the teacher's profile within 2-3 days and share it on WhatsApp",
+      "Review the profile and observe the demo class",
+      "Provide feedback and finalize the teacher by paying fees for 1, 3, or 6 months"
+    ],
+    "demo_fee": "₹500 (subject to change and negotiable)",
+    "profile_finalization_time": "2-3 days",
+    "demo_duration": "20-30 minutes"
+  },
+  "parent_instructions": [
+    "Be available for phone calls and text messages to assist tutors in locating the demo address. For online demos, be available at the right time to join the channel.",
+    "Prepare your child for the demo before the tutor's arrival. Have at least one parent present during the demo for observation.",
+    "Days, duration, and fees are managed by the Institute, not tutors. Direct queries about these to the coordinator after the demo.",
+    "Do not share contact numbers or addresses with tutors, nor inquire about personal details during the demo. This violates company policy and will result in class cancellation.",
+    "Maintain a conducive environment for tutors to conduct demos. Exhibit politeness and humility while discussing subject matter.",
+    "Provide constructive feedback after the demo session to ensure the tutoring experience aligns with expectations."
+  ],
+  "tutor_instructions": [
+    "Arrive at least 10 minutes before the scheduled time",
+    "Maintain politeness, humility, and sincerity when interacting with parents",
+    "Craft a well-prepared introduction highlighting educational qualifications and professional experience",
+    "Maintain professional appearance during demos and classes",
+    "Do not share personal contact information or request such details from parents",
+    "Thoroughly prepare lessons before conducting demos",
+    "Direct parents to the coordinator for inquiries about schedule, fees, or location",
+    "Review location on map, subjects, fees, days, and time before the demo"
+  ],
+  "student_flow": [
+    "Sign up with email/phone or social login, provide basic details and learning preferences",
+    "Platform recommends prioritized list of tutors based on profile and preferences using recommendation system",
+    "Request a demo slot or paid session from recommended tutor",
+    "Attend 20-30 minute demo class using platform's video, chat, and whiteboard tools",
+    "Rate the session and give feedback after demo",
+    "Select tutor based on recommendations, demo outcomes, and ratings",
+    "Complete payment securely through the platform to unlock sessions or packages"
+  ],
+  "tutor_flow": [
+    "Sign up and complete profile with qualifications, subjects, hourly rate, availability, bio, and sample resources",
+    "Platform recommends potential students matching expertise and availability",
+    "Accept or propose times for demo requests and paid sessions",
+    "Conduct 20-30 minute demo sessions showcasing teaching style and clarifying expectations",
+    "Wait for student's decision and feedback after demo",
+    "Begin scheduled classes once student finalizes and payment is processed"
+  ],
+  "matching_system": {
+    "type": "Recommendation System (not search-filter)",
+    "factors": [
+      "Subject/topic",
+      "Learning goals",
+      "Availability",
+      "Budget",
+      "Past ratings/reviews",
+      "Demo-class outcome",
+      "Engagement signals"
+    ],
+    "description": "Matches are ranked and suggested to users who can view suggestions and act on them."
+  },
+  "payment_info": {
+    "payment_options": "Secure payment through platform",
+    "package_options": "1 month, 3 months, or 6 months",
+    "demo_fee": "₹500 (subject to change and negotiable)",
+    "policy": "Cancellation and refund rules displayed during checkout and on user account page"
+  },
+  "boards_supported": ["ICSE", "IGCSE", "CBSE", "IB", "A-Level"],
+  "class_modes": ["Online", "Offline"],
+  "faq": [
+    {
+      "question": "How do I book a demo?",
+      "answer": "Contact our coordinator who will call you to discuss details. Say 'Hi' on WhatsApp, share your location, fill the demo registration form, and pay ₹500 demo fee. We'll finalize a teacher profile within 2-3 days and share it with you."
+    },
+    {
+      "question": "What if I need to change my tutor?",
+      "answer": "We provide tutor security. If a tutor leaves for any emergency or you want a change, a new tutor will be appointed within 2 weeks. It's the institute's responsibility to find a replacement."
+    },
+    {
+      "question": "How does matching work?",
+      "answer": "We use a recommendation system that considers subject/topic, learning goals, availability, budget, past ratings/reviews, demo outcomes, and engagement signals to match tutors and students."
+    },
+    {
+      "question": "What boards do you support?",
+      "answer": "We support ICSE, IGCSE, CBSE, IB, and A-Level educational boards with both online and offline tutoring options."
+    },
+    {
+      "question": "What happens after the demo?",
+      "answer": "After the demo, provide feedback and rate the session. If satisfied, finalize the teacher by paying fees for 1, 3, or 6 months. The tutor will then begin scheduled classes."
+    },
+    {
+      "question": "Do you provide study materials?",
+      "answer": "Yes, we provide complete study support including notes, worksheets, test papers, e-books, video lectures, and interactive quizzes through our digital resource library."
+    },
+    {
+      "question": "What is the group tuition size?",
+      "answer": "Our group tuition maintains small batches of 3-5 students per teacher to ensure personalized attention while fostering peer learning."
+    },
+    {
+      "question": "How do you track student progress?",
+      "answer": "We provide monthly progress reports with detailed summaries of performance, areas of strength, and improvement plans. We also have regular homework, practice tests, and interactive doubt-clearing sessions."
+    }
+  ]
+}
