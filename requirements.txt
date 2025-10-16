@@ -5,3 +5,4 @@ cohere
 google-generativeai
 lancedb
 gunicorn
+groq
