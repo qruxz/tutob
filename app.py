@@ -14,7 +14,9 @@ import uuid
 load_dotenv()
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for cross-origin requests
+frontend_url = "https://tutof.vercel.app"
+
+CORS(app, resources={r"/*": {"origins": frontend_url}})
 
 # Setup logging for message tracking
 logging.basicConfig(
