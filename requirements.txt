@@ -3,6 +3,4 @@ flask-cors==4.0.0
 groq==0.9.0
 httpx==0.27.0
 gunicorn==21.2.0
-cohere==5.3.3
-lancedb==0.6.5
 python-dotenv==1.0.1
