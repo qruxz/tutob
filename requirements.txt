@@ -4,3 +4,4 @@ groq
 httpx
 gunicorn
 python-dotenv
+Werkzeug==3.0.1
